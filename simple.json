@@ -3,322 +3,2890 @@
   "items": [
     {
       "kind": "blogger#post",
-      "id": "3472854495101449054",
+      "id": "6362975763347317977",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-15T03:29:00-07:00",
-      "updated": "2021-01-24T05:00:34-08:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/buggy.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/3472854495101449054",
-      "title": "Buggy",
-      "content": "ok",
+      "published": "2021-02-19T17:37:00-08:00",
+      "updated": "2021-02-19T17:37:51-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/bauxite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6362975763347317977",
+      "title": "Bauxite",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/3472854495101449054/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6362975763347317977/comments"
       },
-      "labels": [
-        "Sichibukai"
-      ],
-      "etag": "\"dGltZXN0YW1wOiAxNjExNDkzMjM0MDExCm9mZnNldDogLTI4ODAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg1MDcxMTgyCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "8346869768514119966",
+      "id": "6005587764679721064",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-15T01:55:00-07:00",
-      "updated": "2021-01-27T02:50:19-08:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/trafalgar-d-water-law.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/8346869768514119966",
-      "title": "Trafalgar D. Water Law",
-      "content": "ok",
+      "published": "2021-02-19T17:36:00-08:00",
+      "updated": "2021-02-19T17:36:19-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/tuff.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6005587764679721064",
+      "title": "Tuff",
+     "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/8346869768514119966/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6005587764679721064/comments"
       },
-      "labels": [
-        "Sichibukai"
-      ],
-      "etag": "\"dGltZXN0YW1wOiAxNjExNzQ0NjE5NjE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg0OTc5MzU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "4918127196104111442",
+      "id": "4187881183521538398",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-15T01:53:00-07:00",
-      "updated": "2020-03-15T01:53:58-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/dracule-mihawk.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4918127196104111442",
-      "title": "Dracule Mihawk",
-      "content": "ok",
+      "published": "2021-02-19T17:33:00-08:00",
+      "updated": "2021-02-19T17:33:47-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/dropstones.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4187881183521538398",
+      "title": "Dropstones",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4918127196104111442/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4187881183521538398/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjYyNDM4Mjk5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg0ODI3NzcxCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "6558796886527354548",
+      "id": "6585192151735788471",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-15T00:10:00-07:00",
-      "updated": "2020-03-15T05:08:03-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/brook.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6558796886527354548",
-      "title": "Brook",
-      "content": "ok",
+      "published": "2021-02-19T17:31:00-08:00",
+      "updated": "2021-02-19T17:31:37-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/ignimbrite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6585192151735788471",
+      "title": "Ignimbrite",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6558796886527354548/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6585192151735788471/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0Mjc0MDgzMTQ5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg0Njk3MDQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "4617622781497169195",
+      "id": "5362640703436066288",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:57:00-07:00",
-      "updated": "2020-03-14T23:57:02-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/franky.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4617622781497169195",
-      "title": "Franky",
-      "content": "ok",
+      "published": "2021-02-19T17:28:00-08:00",
+      "updated": "2021-02-19T17:28:39-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/impactite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5362640703436066288",
+      "title": "Impactite",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4617622781497169195/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5362640703436066288/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjU1NDIyNzQ0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg0NTE5MjYyCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "3438089314503852390",
+      "id": "7070215922644948737",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:51:00-07:00",
-      "updated": "2020-03-14T23:53:06-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/chopper.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/3438089314503852390",
-      "title": "Chopper",
-      "content": "ok","content": "ok",
+      "published": "2021-02-19T17:26:00-08:00",
+      "updated": "2021-02-19T17:26:53-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/potash.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7070215922644948737",
+      "title": "Potash",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/3438089314503852390/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7070215922644948737/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjU1MTg2MzA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzg0NDEzNzgwCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "6022346658241138675",
+      "id": "5868555762407821369",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:48:00-07:00",
-      "updated": "2020-03-14T23:48:12-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/usopp.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6022346658241138675",
-      "title": "Usopp",
-      "content": "ok",
+      "published": "2021-02-19T17:14:00-08:00",
+      "updated": "2021-02-19T17:14:55-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/volcanic-pipes.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5868555762407821369",
+      "title": "Volcanic pipes",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6022346658241138675/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5868555762407821369/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjU0ODkyOTI0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzgzNjk1MDgyCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "1360716119216301425",
+      "id": "908214332385330058",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:45:00-07:00",
-      "updated": "2020-03-14T23:45:22-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/jinbei.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/1360716119216301425",
-      "title": "Jinbei",
-      "content": "ok",
+      "published": "2021-02-19T17:13:00-08:00",
+      "updated": "2021-02-19T17:13:43-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/conglomerate.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/908214332385330058",
+      "title": "Conglomerate",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/1360716119216301425/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/908214332385330058/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjU0NzIyOTc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzgzNjIzMjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "8396524847808614429",
+      "id": "4804865251963493049",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:41:00-07:00",
-      "updated": "2020-03-14T23:41:44-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/shanks.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/8396524847808614429",
-      "title": "Shanks",
-      "content": "ok",
+      "published": "2021-02-19T17:11:00-08:00",
+      "updated": "2021-02-19T17:11:49-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/flint.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4804865251963493049",
+      "title": "Flint",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/8396524847808614429/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4804865251963493049/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjU0NTA0ODY4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzgzNTA5OTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "7603978179278673440",
+      "id": "3853330105015254883",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-14T23:28:00-07:00",
-      "updated": "2020-03-14T23:28:49-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/sanji.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/7603978179278673440",
-      "title": "Sanji",
-      "content": "ok",
+      "published": "2021-02-19T17:09:00-08:00",
+      "updated": "2021-02-19T17:09:38-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/xenolith.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3853330105015254883",
+      "title": "xenolith",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/7603978179278673440/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3853330105015254883/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MjUzNzI5NTE3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzgzMzc4ODcwCm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "4567352571225544520",
+      "id": "3394854779401089557",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-13T03:20:00-07:00",
-      "updated": "2020-03-13T07:48:22-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/roronoa-zoro.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4567352571225544520",
-      "title": "Roronoa Zoro",
-      "content": "ok",
+      "published": "2021-02-19T17:06:00-08:00",
+      "updated": "2021-02-19T17:06:08-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/libyan-desert-glass.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3394854779401089557",
+      "title": "Libyan Desert glass",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
         "image": {
           "url": "//www.blogger.com/img/blogger_logo_round_35.png"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/4567352571225544520/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3394854779401089557/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MTEwOTAyMjczCm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzgzMTY4OTA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
     },
     {
       "kind": "blogger#post",
-      "id": "6370502014175583308",
+      "id": "5918820400173938044",
       "blog": {
-        "id": "5033140178112901135"
+        "id": "5901230296868389395"
       },
-      "published": "2020-03-13T03:16:00-07:00",
-      "updated": "2020-03-13T07:25:25-07:00",
-      "url": "http://scaliennews.blogspot.com/2020/03/monkey-d-luffy.html",
-      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6370502014175583308",
-      "title": "Monkey D. Luffy",
-      "content": "ok",
+      "published": "2021-02-19T16:04:00-08:00",
+      "updated": "2021-02-19T16:04:05-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/igneous-rock.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5918820400173938044",
+      "title": "Igneous rock",
+      "content": "",
       "author": {
-        "id": "04619396696631876823",
-        "displayName": "Zaky Gyan",
-        "url": "https://www.blogger.com/profile/04619396696631876823",
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
         "image": {
-          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
         }
       },
       "replies": {
         "totalItems": "0",
-        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5033140178112901135/posts/6370502014175583308/comments"
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5918820400173938044/comments"
       },
-      "etag": "\"dGltZXN0YW1wOiAxNTg0MTA5NTI1Mzg3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc5NDQ1MDU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "963188654210056532",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T16:00:00-08:00",
+      "updated": "2021-02-19T16:00:26-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/parent-material.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/963188654210056532",
+      "title": "Parent material",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/963188654210056532/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc5MjI2MTExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "410188766428312662",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:59:00-08:00",
+      "updated": "2021-02-19T15:59:07-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/metamorphic-rocks.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/410188766428312662",
+      "title": "Metamorphic rocks",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/410188766428312662/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc5MTQ3Njk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3728770729263718916",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:57:00-08:00",
+      "updated": "2021-02-19T15:57:33-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/clastic-rocks.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3728770729263718916",
+      "title": "Clastic rocks",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3728770729263718916/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc5MDUzMTQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5035785376996759187",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:55:00-08:00",
+      "updated": "2021-02-19T15:55:57-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/molasse.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5035785376996759187",
+      "title": "molasse",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5035785376996759187/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4OTU3MTUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6451695846354808398",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:54:00-08:00",
+      "updated": "2021-02-19T15:54:30-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/moldavite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6451695846354808398",
+      "title": "Moldavite",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6451695846354808398/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4ODcwODI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7243559974510534548",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:52:00-08:00",
+      "updated": "2021-02-19T15:52:40-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/landslide.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7243559974510534548",
+      "title": "landslide",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7243559974510534548/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4NzYwNDE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "224380369633118266",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:49:00-08:00",
+      "updated": "2021-02-19T15:49:21-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/regolith.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/224380369633118266",
+      "title": "Regolith",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/224380369633118266/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4NTYxMTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4021329771182987582",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:47:00-08:00",
+      "updated": "2021-02-19T15:47:44-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/saprolite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4021329771182987582",
+      "title": "Saprolite",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4021329771182987582/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4NDY0MjMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5348923611175141819",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:45:00-08:00",
+      "updated": "2021-02-19T15:45:33-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/active-layer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5348923611175141819",
+      "title": "Active layer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5348923611175141819/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4MzMzMzc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9170791932452885574",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:44:00-08:00",
+      "updated": "2021-02-19T15:44:01-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/serpentinite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9170791932452885574",
+      "title": "Serpentinite",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9170791932452885574/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4MjQxNzQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1452390556965846076",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:42:00-08:00",
+      "updated": "2021-02-19T15:42:21-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/skarns.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1452390556965846076",
+      "title": "Skarns",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1452390556965846076/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4MTQxODg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6795344410050482475",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:40:00-08:00",
+      "updated": "2021-02-19T15:40:36-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/fold-geology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6795344410050482475",
+      "title": "Fold (geology)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6795344410050482475/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc4MDM2NTk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4189629656255905251",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:38:00-08:00",
+      "updated": "2021-02-19T15:38:45-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/schist.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4189629656255905251",
+      "title": "Schist",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4189629656255905251/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3OTI1Mzc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "771041704265113372",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:37:00-08:00",
+      "updated": "2021-02-19T15:37:05-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/soapstone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/771041704265113372",
+      "title": "Soapstone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/771041704265113372/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3ODI1NjkyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5817193417773184112",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:32:00-08:00",
+      "updated": "2021-02-19T15:32:17-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/tektites.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5817193417773184112",
+      "title": "Tektites",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5817193417773184112/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3NTM3MjM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4644607482530167942",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:30:00-08:00",
+      "updated": "2021-02-19T15:30:44-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/fault-breccia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4644607482530167942",
+      "title": "Fault breccia ",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4644607482530167942/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3NDQ0NjAwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "539045161847940516",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:29:00-08:00",
+      "updated": "2021-02-19T15:29:19-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/thermokarst.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/539045161847940516",
+      "title": "Thermokarst",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/539045161847940516/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3MzU5OTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2479407014277558918",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:27:00-08:00",
+      "updated": "2021-02-19T15:27:35-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/turbidite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2479407014277558918",
+      "title": "turbidite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2479407014277558918/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3MjU1NDM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8039557551762251651",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:26:00-08:00",
+      "updated": "2021-02-19T15:26:13-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/fulgurites.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8039557551762251651",
+      "title": "Fulgurites",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8039557551762251651/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3MTczMTkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "929670789868218573",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:23:00-08:00",
+      "updated": "2021-02-19T15:23:25-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/fiamme.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/929670789868218573",
+      "title": "Fiamme",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/929670789868218573/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc3MDA1MDg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2670882658603038567",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:22:00-08:00",
+      "updated": "2021-02-19T15:22:00-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/charoite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2670882658603038567",
+      "title": "Charoite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2670882658603038567/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2OTIwMjU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7839836795672598856",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:19:00-08:00",
+      "updated": "2021-02-19T15:19:55-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pisolite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7839836795672598856",
+      "title": "pisolite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7839836795672598856/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2Nzk1NzEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1388572129826564789",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:18:00-08:00",
+      "updated": "2021-02-19T15:18:31-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/shungite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1388572129826564789",
+      "title": "Shungite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1388572129826564789/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2NzExNzQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7262126204516273979",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:16:00-08:00",
+      "updated": "2021-02-19T15:16:47-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/jasper.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7262126204516273979",
+      "title": "Jasper",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7262126204516273979/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2NjA3NTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3038717873257742112",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:13:00-08:00",
+      "updated": "2021-02-19T15:13:55-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/aplite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3038717873257742112",
+      "title": "Aplite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3038717873257742112/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2NDM1ODg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4931292614216351740",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:12:00-08:00",
+      "updated": "2021-02-19T15:12:33-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/variolites.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4931292614216351740",
+      "title": "Variolites",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4931292614216351740/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2MzUzOTM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4513386776400416143",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:10:00-08:00",
+      "updated": "2021-02-19T15:10:35-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/volcanic-bomb.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4513386776400416143",
+      "title": "volcanic bomb",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4513386776400416143/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2MjM1NzAxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9016092594102269350",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:08:00-08:00",
+      "updated": "2021-02-19T15:08:39-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/lava-dome.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9016092594102269350",
+      "title": "lava dome",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9016092594102269350/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc2MTE5NTUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4833416013390407836",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T15:05:00-08:00",
+      "updated": "2021-02-19T15:05:59-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/volcanic-glass.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4833416013390407836",
+      "title": "Volcanic glass",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4833416013390407836/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzc1OTU5NTM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5291800516174510875",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:57:00-08:00",
+      "updated": "2021-02-19T05:57:57-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/subvolcanic-rock.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5291800516174510875",
+      "title": "subvolcanic rock",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5291800516174510875/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQzMDc3MzUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7978334975079621076",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:55:00-08:00",
+      "updated": "2021-02-19T05:55:38-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/calc-alkaline-magma-series.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7978334975079621076",
+      "title": "calc-alkaline magma series",
+     "content": "",
+	 "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7978334975079621076/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyOTM4MDMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3503039629750309301",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:53:00-08:00",
+      "updated": "2021-02-19T05:53:53-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/lava.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3503039629750309301",
+      "title": "Lava",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3503039629750309301/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyODMzMjM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6100675074003131289",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:51:00-08:00",
+      "updated": "2021-02-19T05:51:42-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/lamproite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6100675074003131289",
+      "title": "Lamproite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6100675074003131289/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyNzAyMDI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4669921713396112779",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:49:00-08:00",
+      "updated": "2021-02-19T05:49:52-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/obsidian.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4669921713396112779",
+      "title": "Obsidian",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4669921713396112779/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyNTkyNzM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3639590543953801897",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:48:00-08:00",
+      "updated": "2021-02-19T05:48:00-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pegmatite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3639590543953801897",
+      "title": "pegmatite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3639590543953801897/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyNDgwODQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1060504759405399188",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:44:00-08:00",
+      "updated": "2021-02-19T05:44:58-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pumice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1060504759405399188",
+      "title": "Pumice",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1060504759405399188/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyMjk4NDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2686536893799479175",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:42:00-08:00",
+      "updated": "2021-02-19T05:42:42-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/perlite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2686536893799479175",
+      "title": "Perlite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2686536893799479175/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyMTYyNzYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3233815341386907452",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:41:00-08:00",
+      "updated": "2021-02-19T05:41:02-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pyroclastic-rocks.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3233815341386907452",
+      "title": "Pyroclastic rocks",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3233815341386907452/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQyMDYyNTY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6811913553997676959",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:39:00-08:00",
+      "updated": "2021-02-19T05:39:24-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pillow-lavas.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6811913553997676959",
+      "title": "Pillow lavas",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6811913553997676959/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxOTY0NjI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5466066461710893270",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:37:00-08:00",
+      "updated": "2021-02-19T05:37:57-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/porphyroclast.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5466066461710893270",
+      "title": "porphyroclast",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5466066461710893270/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxODc3MzkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4117260814344787029",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:34:00-08:00",
+      "updated": "2021-02-19T05:34:48-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/rapakivi-granite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4117260814344787029",
+      "title": "Rapakivi granite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4117260814344787029/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxNjg4MjM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2908828564187708035",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:33:00-08:00",
+      "updated": "2021-02-19T05:33:09-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/felsite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2908828564187708035",
+      "title": "Felsite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2908828564187708035/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxNTg5NTA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8004249403111177189",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:31:00-08:00",
+      "updated": "2021-02-19T05:31:40-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pagodite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8004249403111177189",
+      "title": "Pagodite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8004249403111177189/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxNTAwNTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7703209605874246142",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:27:00-08:00",
+      "updated": "2021-02-19T05:27:12-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/amphibolite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7703209605874246142",
+      "title": "Amphibolite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7703209605874246142/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxMjMyNDY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "39346796668698454",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:25:00-08:00",
+      "updated": "2021-02-19T05:25:18-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/gneiss.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/39346796668698454",
+      "title": "Gneiss",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/39346796668698454/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQxMTE4MTM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3124121893069917957",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:11:00-08:00",
+      "updated": "2021-02-19T05:11:01-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/granulites.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3124121893069917957",
+      "title": "Granulites",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3124121893069917957/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQwMjYxNzg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1501130972372946805",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:09:00-08:00",
+      "updated": "2021-02-19T05:09:30-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/catlinite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1501130972372946805",
+      "title": "Catlinite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1501130972372946805/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQwMTcwNDk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7898211071248549296",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T05:08:00-08:00",
+      "updated": "2021-02-19T05:08:10-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/quartzite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7898211071248549296",
+      "title": "Quartzite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7898211071248549296/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzQwMDkwNDA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4098446062897085189",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:59:00-08:00",
+      "updated": "2021-02-19T04:59:56-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/marble.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4098446062897085189",
+      "title": "Marble",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4098446062897085189/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM5NTk2MjM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "707436098804992636",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:51:00-08:00",
+      "updated": "2021-02-19T04:51:38-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/porphyroblast.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/707436098804992636",
+      "title": "porphyroblast",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/707436098804992636/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM5MDk4MDAxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8679623709028029753",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:49:00-08:00",
+      "updated": "2021-02-19T04:49:24-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/hornfels.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8679623709028029753",
+      "title": "Hornfels",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8679623709028029753/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4OTY0Mzg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4667085127888157961",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:47:00-08:00",
+      "updated": "2021-02-19T04:47:20-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/unakite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4667085127888157961",
+      "title": "Unakite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4667085127888157961/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4ODQwMzQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5778292974837338458",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:45:00-08:00",
+      "updated": "2021-02-19T04:45:09-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/phyllite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5778292974837338458",
+      "title": "Phyllite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5778292974837338458/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4NzA5MzkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1328447413242193838",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:43:00-08:00",
+      "updated": "2021-02-19T04:43:39-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/cipollino-marble.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1328447413242193838",
+      "title": "Cipollino marble",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1328447413242193838/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4NjE5NDUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6772567988059804713",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:42:00-08:00",
+      "updated": "2021-02-19T04:42:17-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/eclogite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6772567988059804713",
+      "title": "Eclogite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6772567988059804713/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4NTM3MjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8837588671260882569",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:40:00-08:00",
+      "updated": "2021-02-19T04:40:37-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/argillite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8837588671260882569",
+      "title": "Argillite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8837588671260882569/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4NDM3MDM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2354119463647821514",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:39:00-08:00",
+      "updated": "2021-02-19T04:39:10-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/breccia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2354119463647821514",
+      "title": "Breccia",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2354119463647821514/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4MzUwMTU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2465167233944439023",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:36:00-08:00",
+      "updated": "2021-02-19T04:36:47-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/boulder.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2465167233944439023",
+      "title": "boulder",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2465167233944439023/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4MjA3NTE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3037500709861240220",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:35:00-08:00",
+      "updated": "2021-02-19T04:35:18-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pebble.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3037500709861240220",
+      "title": "pebble",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3037500709861240220/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM4MTE4MzYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3139317592640485368",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:32:00-08:00",
+      "updated": "2021-02-19T04:32:27-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/clay.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3139317592640485368",
+      "title": "Clay",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3139317592640485368/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3OTQ3NjA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4585565807841050109",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:30:00-08:00",
+      "updated": "2021-02-19T04:30:54-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/gritstone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4585565807841050109",
+      "title": "Gritstone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4585565807841050109/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3ODU0OTk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6675210344546099386",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:28:00-08:00",
+      "updated": "2021-02-19T04:28:52-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/gravel.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6675210344546099386",
+      "title": "Gravel",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6675210344546099386/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3NzMyOTQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1638516175223670833",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:26:00-08:00",
+      "updated": "2021-02-19T04:26:36-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/grus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1638516175223670833",
+      "title": "Grus",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1638516175223670833/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3NTk2MjIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5919834290142915898",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:25:00-08:00",
+      "updated": "2021-02-19T04:25:11-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/sand.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5919834290142915898",
+      "title": "Sand",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5919834290142915898/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3NTExODE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7285998221844434057",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:23:00-08:00",
+      "updated": "2021-02-19T04:23:32-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/sandstone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7285998221844434057",
+      "title": "Sandstone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7285998221844434057/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3NDEyNTI0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "849229673369631102",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:20:00-08:00",
+      "updated": "2021-02-19T04:20:10-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/tephra.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/849229673369631102",
+      "title": "Tephra",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/849229673369631102/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3MjEwMjYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7856770455551929456",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:18:00-08:00",
+      "updated": "2021-02-19T04:18:41-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/crushed-stone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7856770455551929456",
+      "title": "Crushed stone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7856770455551929456/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM3MTIxNTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2644368247009857596",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:14:00-08:00",
+      "updated": "2021-02-19T04:14:44-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/greisen.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2644368247009857596",
+      "title": "Greisen",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2644368247009857596/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM2ODg0NjE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9189690730925329566",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T04:12:00-08:00",
+      "updated": "2021-02-19T04:12:35-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/sedimentology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9189690730925329566",
+      "title": "Sedimentology",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/9189690730925329566/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzM2NzU1MDcxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "857517823634487549",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:53:00-08:00",
+      "updated": "2021-02-19T02:53:04-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/siltstone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/857517823634487549",
+      "title": "Siltstone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/857517823634487549/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxOTg0OTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4901595734015970300",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:51:00-08:00",
+      "updated": "2021-02-19T02:51:26-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/arkose.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4901595734015970300",
+      "title": "Arkose",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4901595734015970300/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxODg2ODkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2448802111372746030",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:50:00-08:00",
+      "updated": "2021-02-19T02:50:03-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/till.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2448802111372746030",
+      "title": "Till",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2448802111372746030/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxODAzMDQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1269129279015972786",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:48:00-08:00",
+      "updated": "2021-02-19T02:48:29-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/boulder-clay.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1269129279015972786",
+      "title": "Boulder clay",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1269129279015972786/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxNzA5MTU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3475588332939527491",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:46:00-08:00",
+      "updated": "2021-02-19T02:46:37-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/jet-gemstone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3475588332939527491",
+      "title": "Jet (gemstone)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3475588332939527491/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxNTk3NjIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7698797217899848741",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:42:00-08:00",
+      "updated": "2021-02-19T02:42:19-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/shale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7698797217899848741",
+      "title": "Shale",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7698797217899848741/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxMzM5MTYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2660723705401013906",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:40:00-08:00",
+      "updated": "2021-02-19T02:40:31-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/greywacke.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2660723705401013906",
+      "title": "Greywacke",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2660723705401013906/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxMjMxMTE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8809031864884753678",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:32:00-08:00",
+      "updated": "2021-02-19T02:38:44-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/dolomite-rock.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8809031864884753678",
+      "title": "Dolomite Rock",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8809031864884753678/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMxMTI0OTcxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8872427614441933059",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:25:00-08:00",
+      "updated": "2021-02-19T02:25:18-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/solnhofen-limestone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8872427614441933059",
+      "title": "Solnhofen Limestone",
+	  "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8872427614441933059/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMwMzE4ODUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "494750702813516786",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:23:00-08:00",
+      "updated": "2021-02-19T02:23:06-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/limestone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/494750702813516786",
+      "title": "Limestone",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/494750702813516786/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzMwMTg2OTMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3682740011877733290",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:19:00-08:00",
+      "updated": "2021-02-19T02:19:06-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/yixing-clay-teapots.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3682740011877733290",
+      "title": "Yixing clay teapots",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3682740011877733290/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI5OTQ2MTk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7821641587066175898",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:15:00-08:00",
+      "updated": "2021-02-19T02:17:17-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/pelagic-red-clay.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7821641587066175898",
+      "title": "Pelagic red clay",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7821641587066175898/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI5ODM3MzEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4156375595311710702",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:13:00-08:00",
+      "updated": "2021-02-19T02:13:17-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/loess.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4156375595311710702",
+      "title": "Loess",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4156375595311710702/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI5NTk3MzYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1588085388479532963",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:11:00-08:00",
+      "updated": "2021-02-19T02:11:24-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/chalk.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1588085388479532963",
+      "title": "Chalk",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1588085388479532963/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI5NDg0NDUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8140538450444045563",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:08:00-08:00",
+      "updated": "2021-02-19T02:08:36-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/marl.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8140538450444045563",
+      "title": "Marl",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/8140538450444045563/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI5MzE2NDY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6651591559544008413",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T02:00:00-08:00",
+      "updated": "2021-02-19T02:00:39-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/tsunami-deposit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6651591559544008413",
+      "title": "tsunami deposit",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/6651591559544008413/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4ODM5MTE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2368113176720087634",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:58:00-08:00",
+      "updated": "2021-02-19T01:58:50-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/radiolarite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2368113176720087634",
+      "title": "Radiolarite",
+     "content": "",
+	 "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/2368113176720087634/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4NzMwNTYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7526747612392198961",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:57:00-08:00",
+      "updated": "2021-02-19T01:57:00-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/sylvinite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7526747612392198961",
+      "title": "Sylvinite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7526747612392198961/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4NjIwOTIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4935738018695638545",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:55:00-08:00",
+      "updated": "2021-02-19T01:55:26-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/sorting.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4935738018695638545",
+      "title": "Sorting",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4935738018695638545/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4NTI2NzI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3172455728611943418",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:54:00-08:00",
+      "updated": "2021-02-19T01:54:12-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/spongolite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3172455728611943418",
+      "title": "Spongolite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3172455728611943418/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4NDUyNTY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3381307390552695472",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:52:00-08:00",
+      "updated": "2021-02-19T01:52:18-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/loam.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3381307390552695472",
+      "title": "Loam",
+      "content": "\u003cp\u003e&nbsp;\u003cb style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 16px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;\"\u003eLoam\u003c/b\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003eis\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003esoil\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003ecomposed mostly of\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003esand\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e(\u003c/span\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eparticle size\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&gt; 63 micrometres (0.0025&nbsp;in)),\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003esilt\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e(particle size &gt; 2 micrometres (7.9\u003c/span\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 16px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0.15em 0px 0.25em; padding: 0px; vertical-align: baseline;\"\u003e×\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e10\u003c/span\u003e\u003csup style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px; padding: 0px;\"\u003e−5\u003c/sup\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;in)), and a smaller amount of\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eclay\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e(particle size &lt; 2 micrometres (7.9\u003c/span\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 16px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0.15em 0px 0.25em; padding: 0px; vertical-align: baseline;\"\u003e×\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e10\u003c/span\u003e\u003csup style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px; padding: 0px;\"\u003e−5\u003c/sup\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;in)). By weight, its mineral composition is about 40–40–20% concentration of sand–silt–clay, respectively.\u003c/span\u003e\u003csup class=\"reference\" id=\"cite_ref-KaufmannCleveland_1-0\" style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[1]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"color: #202122; font-family: inherit; font-size: 16px; font-style: inherit; font-variant-caps: inherit; font-variant-ligatures: inherit; font-weight: inherit;\"\u003eThese proportions can vary to a degree, however, and result in different types of loam soils: sandy loam, silty loam, clay loam, sandy clay loam, silty clay loam, and loam.\u003c/span\u003e\u003csup class=\"reference\" id=\"cite_ref-KaufmannCleveland_1-1\" style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border: 0px; color: #202122; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[1]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e\u003c/p\u003e\u003csection class=\"mf-section-0\" id=\"mf-section-0\" style=\"background-color: white; color: #202122; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Lato, Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cdiv class=\"thumb tright\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.6em 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003cdiv class=\"thumbinner\" style=\"background: none; border: 0px; display: flex; flex-flow: column wrap; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; place-content: flex-start center; vertical-align: baseline; width: 222px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: auto !important; line-height: inherit;\"\u003e\u003cimg alt=\"\" class=\"thumbimage\" data-file-height=\"1130\" data-file-width=\"786\" decoding=\"async\" height=\"316\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bama_soil.png/220px-Bama_soil.png\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: auto !important; line-height: inherit; margin: 0px; max-width: 100%; padding: 0px; vertical-align: middle;\" width=\"220\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003cdiv class=\"thumbcaption\" style=\"-webkit-box-flex: 1; -webkit-box-ordinal-group: 1; -webkit-box-pack: justify; background: none; border: 0px; color: #54595d; flex: 1 0 100%; font-family: inherit; font-size: 0.8125em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; justify-content: space-between; line-height: 1.5; margin: 0.5em 0px 0px; order: 1; padding: 0px !important; vertical-align: baseline; width: 222px;\"\u003eThree layers of subsurface loam; surface layer is dark brown fine sandy loam, subsurface layer is pale brown fine sandy loam, subsoil is red clay loam and sandy clay loam.\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"thumb tright\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.6em 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003cdiv class=\"thumbinner\" style=\"background: none; border: 0px; display: flex; flex-flow: column wrap; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; place-content: flex-start center; vertical-align: baseline; width: 222px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: auto !important; line-height: inherit;\"\u003e\u003cimg alt=\"\" class=\"thumbimage\" data-file-height=\"489\" data-file-width=\"512\" decoding=\"async\" height=\"210\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SoilTexture_USDA.svg/220px-SoilTexture_USDA.svg.png\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SoilTexture_USDA.svg/330px-SoilTexture_USDA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SoilTexture_USDA.svg/440px-SoilTexture_USDA.svg.png 2x\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: auto !important; line-height: inherit; margin: 0px; max-width: 100%; padding: 0px; vertical-align: middle;\" width=\"220\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003cdiv class=\"thumbcaption\" style=\"-webkit-box-flex: 1; -webkit-box-ordinal-group: 1; -webkit-box-pack: justify; background: none; border: 0px; color: #54595d; flex: 1 0 100%; font-family: inherit; font-size: 0.8125em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; justify-content: space-between; line-height: 1.5; margin: 0.5em 0px 0px; order: 1; padding: 0px !important; vertical-align: baseline; width: 222px;\"\u003eSoil types by clay, silt and sand composition as used by the United States Department of Agriculture\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eIn the&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eUnited States Department of Agriculture\u003c/span\u003e\u003c/span\u003e,&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003etextural classification triangle\u003c/span\u003e\u003c/span\u003e, the only soil that is not predominantly sand, silt, or clay is called \"loam\". Loam soils generally contain more nutrients, moisture, and&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003ehumus\u003c/span\u003e\u003c/span\u003e&nbsp;than sandy soils, have better drainage and infiltration of water and air than silt and clay-rich soils, and are easier to&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003etill\u003c/span\u003e\u003c/span\u003e&nbsp;than clay soils. The different types of loam soils each have slightly different characteristics, with some draining liquids more efficiently than others. The soil's texture, especially its ability to retain nutrients and&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003ewater\u003c/span\u003e\u003c/span\u003e, are crucial.\u003csup class=\"reference\" id=\"cite_ref-2\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[2]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e&nbsp;Loam soil is suitable for growing most plant varieties.\u003c/p\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eBricks\u003c/span\u003e\u003c/span\u003e&nbsp;made of loam, mud, sand, and water, with an added binding material such as rice husks or straw, have been used in construction since ancient times.\u003c/p\u003e\u003c/section\u003e\u003ch2 class=\"section-heading collapsible-heading open-block\" style=\"background: none rgb(255, 255, 255); border-bottom-color: rgb(234, 236, 240); border-bottom-style: solid; border-image: initial; border-left-color: initial; border-left-style: initial; border-right-color: initial; border-right-style: initial; border-top-color: initial; border-top-style: initial; border-width: 0px 0px 1px; clear: left; color: #202122; cursor: pointer; display: table; font-family: &quot;Linux Libertine&quot;, Georgia, Times, serif; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; font-weight: inherit; line-height: 1.3; margin: 0px 0px 0.5em; overflow-wrap: break-word; padding: 0.5em 0px; position: relative; vertical-align: baseline; word-break: break-word;\"\u003e\u003cdiv class=\"mw-ui-icon mw-ui-icon-mf-expand mw-ui-icon-element mw-ui-icon-small mf-mw-ui-icon-rotate-flip indicator mw-ui-icon-flush-left\" style=\"appearance: none; background: none transparent; border-radius: 2px; border: 0px; box-sizing: content-box !important; color: transparent; display: inline-block; flex-basis: 1em; font-family: inherit; font-size: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1em; line-height: 1em; margin: 0px 0px 0px -0.5625em; min-height: 1em; min-width: 1em; overflow: hidden; padding: 0.5625em; position: relative; text-overflow: ellipsis; transition: background-color 100ms ease 0s; vertical-align: middle; white-space: nowrap; width: 1em;\"\u003e\u003c/div\u003e\u003cspan aria-controls=\"content-collapsible-block-0\" aria-expanded=\"true\" class=\"mw-headline\" id=\"Classifications\" role=\"button\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle; width: 323.048px;\" tabindex=\"0\"\u003eClassifications\u003c/span\u003e\u003cspan class=\"mw-editsection\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle;\"\u003e\u003cspan style=\"font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-radius: 2px; border-style: initial; display: inline-block; flex-basis: 1.25em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1.25em; line-height: 0; margin-bottom: -0.75em; margin-right: -0.75em; margin-top: -0.75em; min-height: 1.25em; min-width: 1.25em; overflow: hidden; padding: 0.75em; position: relative; text-overflow: ellipsis; transition-duration: 100ms; transition-property: background-color; vertical-align: middle; white-space: nowrap; width: 1.25em;\"\u003eEdit\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection class=\"mf-section-1 collapsible-block open-block\" id=\"content-collapsible-block-0\" style=\"background-color: white; clear: left; color: #202122; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Lato, Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam soils can be classified into more specific subtypes. Some examples are sandy loam, silt loam, clay loam, and silty clay loam. Different&nbsp;\u003cspan style=\"color: #dd3333; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003esoil phases\u003c/span\u003e\u003c/span\u003e&nbsp;have some variation in characteristics like stoniness and erosion that are too minor to effect the native vegetative growth but can be significant for crop cultivation.\u003csup class=\"reference\" id=\"cite_ref-3\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[3]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e\u003c/p\u003e\u003c/section\u003e\u003ch2 class=\"section-heading collapsible-heading open-block\" style=\"background: none rgb(255, 255, 255); border-bottom-color: rgb(234, 236, 240); border-bottom-style: solid; border-image: initial; border-left-color: initial; border-left-style: initial; border-right-color: initial; border-right-style: initial; border-top-color: initial; border-top-style: initial; border-width: 0px 0px 1px; clear: left; color: #202122; cursor: pointer; display: table; font-family: &quot;Linux Libertine&quot;, Georgia, Times, serif; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; font-weight: inherit; line-height: 1.3; margin: 0px 0px 0.5em; overflow-wrap: break-word; padding: 0.5em 0px; position: relative; vertical-align: baseline; word-break: break-word;\"\u003e\u003cdiv class=\"mw-ui-icon mw-ui-icon-mf-expand mw-ui-icon-element mw-ui-icon-small mf-mw-ui-icon-rotate-flip indicator mw-ui-icon-flush-left\" style=\"appearance: none; background: none transparent; border-radius: 2px; border: 0px; box-sizing: content-box !important; color: transparent; display: inline-block; flex-basis: 1em; font-family: inherit; font-size: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1em; line-height: 1em; margin: 0px 0px 0px -0.5625em; min-height: 1em; min-width: 1em; overflow: hidden; padding: 0.5625em; position: relative; text-overflow: ellipsis; transition: background-color 100ms ease 0s; vertical-align: middle; white-space: nowrap; width: 1em;\"\u003e\u003c/div\u003e\u003cspan aria-controls=\"content-collapsible-block-1\" aria-expanded=\"true\" class=\"mw-headline\" id=\"Use_in_farming\" role=\"button\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle; width: 323.048px;\" tabindex=\"0\"\u003eUse in farming\u003c/span\u003e\u003cspan class=\"mw-editsection\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle;\"\u003e\u003cspan style=\"font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-radius: 2px; border-style: initial; display: inline-block; flex-basis: 1.25em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1.25em; line-height: 0; margin-bottom: -0.75em; margin-right: -0.75em; margin-top: -0.75em; min-height: 1.25em; min-width: 1.25em; overflow: hidden; padding: 0.75em; position: relative; text-overflow: ellipsis; transition-duration: 100ms; transition-property: background-color; vertical-align: middle; white-space: nowrap; width: 1.25em;\"\u003eEdit\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection class=\"mf-section-2 collapsible-block open-block\" id=\"content-collapsible-block-1\" style=\"background-color: white; clear: left; color: #202122; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Lato, Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cdiv class=\"thumb tright\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.6em 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003cdiv class=\"thumbinner\" style=\"background: none; border: 0px; display: flex; flex-flow: column wrap; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; place-content: flex-start center; vertical-align: baseline; width: 222px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e\u003cimg alt=\"\" class=\"thumbimage image-lazy-loaded\" height=\"165\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lancashire_Loam_-_geograph.org.uk_-_999357.jpg/220px-Lancashire_Loam_-_geograph.org.uk_-_999357.jpg\" srcset=\"\" style=\"animation: 0.3s ease-in 0s 1 normal none running fadeInImage; background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 165px; line-height: inherit; margin: 0px; max-width: 100%; padding: 0px; vertical-align: middle; width: 220px;\" usemap=\"https://en.m.wikipedia.org/wiki/undefined\" width=\"220\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003cdiv class=\"thumbcaption\" style=\"-webkit-box-flex: 1; -webkit-box-ordinal-group: 1; -webkit-box-pack: justify; background: none; border: 0px; color: #54595d; flex: 1 0 100%; font-family: inherit; font-size: 0.8125em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; justify-content: space-between; line-height: 1.5; margin: 0.5em 0px 0px; order: 1; padding: 0px !important; vertical-align: baseline; width: 222px;\"\u003eFine, loam-rich field ideal for farming vegetables in the UK\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam is considered ideal for gardening and agricultural uses because it retains nutrients well and retains water while still allowing excess water to drain away.\u003csup class=\"reference\" id=\"cite_ref-4\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[4]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e&nbsp;A soil dominated by one or two of the three particle size groups can behave like loam if it has a strong granular structure, promoted by a high content of organic matter. However, a soil that meets the textural definition of loam can lose its characteristic desirable qualities when it is compacted, depleted of organic matter, or has clay dispersed throughout its fine-earth fraction.\u003csup class=\"noprint Inline-Template\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px 0px 0px 0.1em; padding: 0px; white-space: nowrap;\"\u003e[\u003ci style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003cspan style=\"background: none; border: 0px; color: #3366cc; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration-line: none; vertical-align: baseline;\" title=\"The text near this tag may need clarification or removal of jargon. (April 2012)\"\u003eclarification needed\u003c/span\u003e\u003c/i\u003e]\u003c/sup\u003e\u003c/p\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eFrom the English translation of&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eCharles Estienne\u003c/span\u003e\u003c/span\u003e's 16th century&nbsp;\u003ci style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;\"\u003eMaison rustique\u003c/i\u003e:\u003c/p\u003e\u003cblockquote style=\"background: none; border-bottom-color: initial; border-bottom-style: initial; border-image: initial; border-left-color: rgb(200, 204, 209); border-left-style: solid; border-right-color: initial; border-right-style: initial; border-top-color: initial; border-top-style: initial; border-width: 0px 0px 0px 3px; font-family: &quot;Linux Libertine&quot;, Georgia, Times, serif; font-size: 1.1em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 8px 24px 8px 32px; vertical-align: baseline;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;\"\u003e\"Sandie places...crave rest, which is the principall remedie to helpe their weake and feeble estate, and also to sowen with a varietie of graine, as after&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003erye\u003c/span\u003e\u003c/span\u003e, some kinde of&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003epulse\u003c/span\u003e\u003c/span\u003e.\"\u003c/p\u003e\u003c/blockquote\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003ePea can be cultivated in sandy loam and clay loam soils, but not more compacted sandy soils.\u003csup class=\"reference\" id=\"cite_ref-5\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[5]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e\u003c/p\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam is found in a majority of successful farms in regions around the world known for their fertile land.\u003csup class=\"noprint Inline-Template Template-Fact\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: 1; margin: 0px; padding: 0px; white-space: nowrap;\"\u003e[\u003ci style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003cspan style=\"background: none; border: 0px; color: #3366cc; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; text-decoration-line: none; vertical-align: baseline;\" title=\"This claim needs references to reliable sources. (January 2013)\"\u003ecitation needed\u003c/span\u003e\u003c/i\u003e]\u003c/sup\u003e&nbsp;Loam soil feels soft and crumbly and is easy to work over a wide range of moisture conditions.\u003c/p\u003e\u003c/section\u003e\u003ch2 class=\"section-heading collapsible-heading open-block\" style=\"background: none rgb(255, 255, 255); border-bottom-color: rgb(234, 236, 240); border-bottom-style: solid; border-image: initial; border-left-color: initial; border-left-style: initial; border-right-color: initial; border-right-style: initial; border-top-color: initial; border-top-style: initial; border-width: 0px 0px 1px; clear: left; color: #202122; cursor: pointer; display: table; font-family: &quot;Linux Libertine&quot;, Georgia, Times, serif; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; font-weight: inherit; line-height: 1.3; margin: 0px 0px 0.5em; overflow-wrap: break-word; padding: 0.5em 0px; position: relative; vertical-align: baseline; word-break: break-word;\"\u003e\u003cdiv class=\"mw-ui-icon mw-ui-icon-mf-expand mw-ui-icon-element mw-ui-icon-small mf-mw-ui-icon-rotate-flip indicator mw-ui-icon-flush-left\" style=\"appearance: none; background: none transparent; border-radius: 2px; border: 0px; box-sizing: content-box !important; color: transparent; display: inline-block; flex-basis: 1em; font-family: inherit; font-size: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1em; line-height: 1em; margin: 0px 0px 0px -0.5625em; min-height: 1em; min-width: 1em; overflow: hidden; padding: 0.5625em; position: relative; text-overflow: ellipsis; transition: background-color 100ms ease 0s; vertical-align: middle; white-space: nowrap; width: 1em;\"\u003e\u003c/div\u003e\u003cspan aria-controls=\"content-collapsible-block-2\" aria-expanded=\"true\" class=\"mw-headline\" id=\"Use_in_house_construction\" role=\"button\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle; width: 323.048px;\" tabindex=\"0\"\u003eUse in house construction\u003c/span\u003e\u003cspan class=\"mw-editsection\" style=\"background: none; border: 0px; display: table-cell; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: middle;\"\u003e\u003cspan style=\"font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-radius: 2px; border-style: initial; display: inline-block; flex-basis: 1.25em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1.25em; line-height: 0; margin-bottom: -0.75em; margin-right: -0.75em; margin-top: -0.75em; min-height: 1.25em; min-width: 1.25em; overflow: hidden; padding: 0.75em; position: relative; text-overflow: ellipsis; transition-duration: 100ms; transition-property: background-color; vertical-align: middle; white-space: nowrap; width: 1.25em;\"\u003eEdit\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection class=\"mf-section-3 collapsible-block open-block\" id=\"content-collapsible-block-2\" style=\"background-color: white; clear: left; color: #202122; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Lato, Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cdiv class=\"hatnote navigation-not-searchable\" role=\"note\" style=\"background: none rgb(248, 249, 250); border: 0px; color: #54595d; font-family: inherit; font-size: 0.8125em; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 1px; overflow: hidden; padding: 5px 7px; vertical-align: baseline;\"\u003eMain article:&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eEarth structure\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam may be used for the construction of houses, for example in loam&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003epost and beam\u003c/span\u003e\u003c/span\u003e&nbsp;construction.\u003csup class=\"reference\" id=\"cite_ref-Schittich_6-0\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[6]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e&nbsp;Building crews can build a layer of loam on the inside of walls, which can help to control air humidity. Loam, combined with straw, can be used as a rough construction material to build walls. This is one of the oldest technologies for house construction in the world. Within this there are two broad methods: the use of&nbsp;\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003erammed earth\u003c/span\u003e\u003c/span\u003e, or unfired bricks (\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eadobe\u003c/span\u003e\u003c/span\u003e).\u003csup class=\"reference\" id=\"cite_ref-7\" style=\"background: none; border: 0px; font-family: inherit; font-size: 0.75em; font-stretch: inherit; font-variant: inherit; line-height: 1; margin: 0px; padding: 0px; unicode-bidi: isolate; white-space: nowrap;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e[7]\u003c/span\u003e\u003c/span\u003e\u003c/sup\u003e\u003c/p\u003e\u003cul class=\"gallery mw-gallery-traditional\" style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; list-style-image: initial; list-style-position: initial; margin: 2px; padding: 2px 2px 2px 1em; vertical-align: baseline;\"\u003e\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 10px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; width: 155px;\"\u003e\u003cdiv class=\"thumb\" style=\"background: none rgb(248, 249, 250); border: 1px solid rgb(200, 204, 209); font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 2px; padding: 0px; text-align: center; vertical-align: baseline; width: 150px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 15px auto; padding: 0px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-left: auto; margin-right: auto;\"\u003e\u003cimg alt=\"\" class=\"image-lazy-loaded\" height=\"120\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Michelau_Fachwerkdetail.JPG/90px-Michelau_Fachwerkdetail.JPG\" srcset=\"\" style=\"animation: 0.3s ease-in 0s 1 normal none running fadeInImage; background: none; border: 0px; display: block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 120px; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; vertical-align: middle; width: 90px;\" usemap=\"https://en.m.wikipedia.org/wiki/undefined\" width=\"90\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"gallerytext\" style=\"background: none; border: 0px; font-family: inherit; font-size: 15.04px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; overflow-wrap: break-word; overflow: hidden; padding: 2px 4px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam with timber framing\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/li\u003e&nbsp;\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 10px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/li\u003e\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 10px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; width: 155px;\"\u003e\u003cdiv class=\"thumb\" style=\"background: none rgb(248, 249, 250); border: 1px solid rgb(200, 204, 209); font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 2px; padding: 0px; text-align: center; vertical-align: baseline; width: 150px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 30px auto; padding: 0px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-left: auto; margin-right: auto;\"\u003e\u003cimg alt=\"\" class=\"image-lazy-loaded\" height=\"90\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/000410_Lehmh%C3%BCtte_in_der_N%C3%A4he_von_Baligr%C3%B3d.JPG/120px-000410_Lehmh%C3%BCtte_in_der_N%C3%A4he_von_Baligr%C3%B3d.JPG\" srcset=\"\" style=\"animation: 0.3s ease-in 0s 1 normal none running fadeInImage; background: none; border: 0px; display: block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 90px; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; vertical-align: middle; width: 120px;\" usemap=\"https://en.m.wikipedia.org/wiki/undefined\" width=\"120\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"gallerytext\" style=\"background: none; border: 0px; font-family: inherit; font-size: 15.04px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; overflow-wrap: break-word; overflow: hidden; padding: 2px 4px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eHouse with loam ground floor\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/li\u003e&nbsp;\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 10px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/li\u003e\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px 0px 10px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; width: 155px;\"\u003e\u003cdiv class=\"thumb\" style=\"background: none rgb(248, 249, 250); border: 1px solid rgb(200, 204, 209); font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 2px; padding: 0px; text-align: center; vertical-align: baseline; width: 150px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 30px auto; padding: 0px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-left: auto; margin-right: auto;\"\u003e\u003cimg alt=\"\" class=\"image-lazy-loaded\" height=\"90\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Biesenthal_eldest_house_from_1707_%281%29.jpg/120px-Biesenthal_eldest_house_from_1707_%281%29.jpg\" srcset=\"\" style=\"animation: 0.3s ease-in 0s 1 normal none running fadeInImage; background: none; border: 0px; display: block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 90px; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; vertical-align: middle; width: 120px;\" usemap=\"https://en.m.wikipedia.org/wiki/undefined\" width=\"120\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"gallerytext\" style=\"background: none; border: 0px; font-family: inherit; font-size: 15.04px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; overflow-wrap: break-word; overflow: hidden; padding: 2px 4px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003eLoam-timber-framed 1707 house, under restoration in Brandenburg\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/li\u003e&nbsp;\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-bottom: inherit; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003c/li\u003e\u003cli class=\"gallerybox\" style=\"background: none; border: 0px; display: inline-block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-bottom: inherit; margin-left: 0px; margin-right: 0px; margin-top: 0px; padding: 0px; vertical-align: top; width: 155px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; width: 155px;\"\u003e\u003cdiv class=\"thumb\" style=\"background: none rgb(248, 249, 250); border: 1px solid rgb(200, 204, 209); font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 2px; padding: 0px; text-align: center; vertical-align: baseline; width: 150px;\"\u003e\u003cdiv style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 46.5px auto; padding: 0px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin-left: auto; margin-right: auto;\"\u003e\u003cimg alt=\"\" class=\"image-lazy-loaded\" height=\"57\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Djenn%C3%A9_Moschee.jpg/120px-Djenn%C3%A9_Moschee.jpg\" srcset=\"\" style=\"animation: 0.3s ease-in 0s 1 normal none running fadeInImage; background: none; border: 0px; display: block; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 57px; line-height: inherit; margin: 0px auto; max-width: 100%; padding: 0px; vertical-align: middle; width: 120px;\" usemap=\"https://en.m.wikipedia.org/wiki/undefined\" width=\"120\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"gallerytext\" style=\"background: none; border: 0px; font-family: inherit; font-size: 15.04px; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0px; overflow-wrap: break-word; overflow: hidden; padding: 2px 4px; vertical-align: baseline; width: 358.19px;\"\u003e\u003cp style=\"background: none; border: 0px; font-family: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; margin: 0.5em 0px 1em; padding: 0px; vertical-align: baseline;\"\u003e\u003cspan style=\"color: #3366cc; font-family: inherit;\"\u003e\u003cspan style=\"background-attachment: initial; background-clip: initial; background-image: none; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit;\"\u003eGreat Mosque of Djenné\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/li\u003e\u003c/ul\u003e\u003c/section\u003e\u003ch2 class=\"section-heading collapsible-heading\" style=\"background: none rgb(255, 255, 255); border-bottom-color: rgb(234, 236, 240); border-bottom-style: solid; border-image: initial; border-left-color: initial; border-left-style: initial; border-right-color: initial; border-right-style: initial; border-top-color: initial; border-top-style: initial; border-width: 0px 0px 1px; clear: left; color: #202122; cursor: pointer; display: table; font-family: &quot;Linux Libertine&quot;, Georgia, Times, serif; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; font-weight: inherit; line-height: 1.3; margin: 0px 0px 0.5em; overflow-wrap: break-word; padding: 0.5em 0px; position: relative; vertical-align: baseline; word-break: break-word;\"\u003e\u003cdiv class=\"mw-ui-icon mw-ui-icon-mf-expand mw-ui-icon-element mw-ui-icon-small  indicator mw-ui-icon-flush-left\" style=\"appearance: none; background: none transparent; border-radius: 2px; border: 0px; box-sizing: content-box !important; color: transparent; display: inline-block; flex-basis: 1em; font-family: inherit; font-size: initial; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; height: 1em; line-height: 1em; margin: 0px 0px 0px -0.5625em; min-height: 1em; min-width: 1em; overflow: hidden; padding: 0.5625em; position: relative; text-overflow: ellipsis; transition: background-color 100ms ease 0s; vertical-align: middle; white-space: nowrap; width: 1em;\"\u003e\u003c/div\u003e\u003c/h2\u003e\u003cdiv\u003e\u003ctable style=\"background: 0px 0px rgb(248, 248, 248); border: 1px solid rgb(224, 224, 224); color: black; font-family: sans-serif; font-size: 14px; margin: 5px auto; outline: 0px; padding: 0px; vertical-align: baseline; width: 674px;\"\u003e\u003ctbody style=\"background: 0px 0px; border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003ctr style=\"background: 0px 0px; border: 0px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;\"\u003e\u003ctd style=\"background: 0px 0px; border: 0px; font-size: 12.6px; margin: 0px; outline: 0px; padding: 3px; vertical-align: baseline;\"\u003eThis article uses material from the Wikipedia article\u003cbr /\u003e&nbsp;\u003ca href=\"https://en.wikipedia.org/wiki/Metasyntactic_variable\" style=\"background: none; border: 0px; color: #0b0080; margin: 0px; outline: 0px; padding: 0px; text-decoration-line: none; vertical-align: baseline;\" title=\"Metasyntactic variable\"\u003eMetasyntactic variable\u003c/a\u003e,&nbsp;which is released under the&nbsp;\u003cbr /\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License\" style=\"background: none; border: 0px; color: #0b0080; margin: 0px; outline: 0px; padding: 0px; text-decoration-line: none; vertical-align: baseline;\" title=\"Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License\"\u003eCreative Commons\u003cbr /\u003eAttribution-ShareAlike 3.0 Unported License\u003c/a\u003e.\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/3381307390552695472/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4MzM4NDE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7355110996118464699",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:50:00-08:00",
+      "updated": "2021-02-19T01:50:12-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/three-natural-bridges.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7355110996118464699",
+      "title": "Three Natural Bridges",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7355110996118464699/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4MjEyNTEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5258821715259631274",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:48:00-08:00",
+      "updated": "2021-02-19T01:48:12-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/tufa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5258821715259631274",
+      "title": "Tufa",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/5258821715259631274/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI4MDkyODA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1176991768470436553",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:46:00-08:00",
+      "updated": "2021-02-19T01:46:18-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/flysch.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1176991768470436553",
+      "title": "Flysch",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1176991768470436553/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3OTc4MTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7198126802707857659",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:44:00-08:00",
+      "updated": "2021-02-19T01:44:37-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/phosphorite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7198126802707857659",
+      "title": "Phosphorite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/7198126802707857659/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3ODc3MDU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1712299013562696542",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:42:00-08:00",
+      "updated": "2021-02-19T01:42:32-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/evaporite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1712299013562696542",
+      "title": "Evaporite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1712299013562696542/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3NzUyNDkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1295050962897178534",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:40:00-08:00",
+      "updated": "2021-02-19T01:40:48-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/saussurite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1295050962897178534",
+      "title": "Saussurite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1295050962897178534/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3NjQ4MDExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4418101322898169240",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:37:00-08:00",
+      "updated": "2021-02-19T01:38:22-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/torbanite.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4418101322898169240",
+      "title": "Torbanite",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/4418101322898169240/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3NTAyMDIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1832669938929450336",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:35:00-08:00",
+      "updated": "2021-02-19T01:35:21-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/plastiglomerate.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1832669938929450336",
+      "title": "Plastiglomerate",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1832669938929450336/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3MzIxOTYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1674033915912469601",
+      "blog": {
+        "id": "5901230296868389395"
+      },
+      "published": "2021-02-19T01:33:00-08:00",
+      "updated": "2021-02-19T01:33:41-08:00",
+      "url": "http://listrocktype.blogspot.com/2021/02/rotten-stone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1674033915912469601",
+      "title": "Rotten stone",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/5901230296868389395/posts/1674033915912469601/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEzNzI3MjIxNDMwCm9mZnNldDogLTI4ODAwMDAwCg\""
     }
   ],
-  "etag": "\"MjAyMS0wMS0yN1QxMDo1MDoxOS42MTVa\""
+  "etag": "\"MjAyMS0wMi0yMFQwMTozOToxMC4yNDda\""
 }
