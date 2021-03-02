@@ -3,6 +3,32 @@
   "items": [
     {
       "kind": "blogger#post",
+      "id": "8866936102719157454",
+      "blog": {
+        "id": "2412937785519279976"
+      },
+      "published": "2021-01-10T07:58:00-08:00",
+      "updated": "2021-01-10T07:58:16-08:00",
+      "url": "http://herbspicesar.blogspot.com/2021/01/disorders-of-consciousness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8866936102719157454",
+      "title": "Disorders of consciousness",
+      "content": "",
+      "author": {
+        "id": "11467510009495958280",
+        "displayName": "GiLabs Studio",
+        "url": "https://www.blogger.com/profile/11467510009495958280",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2412937785519279976/posts/8866936102719157454/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEwMjk0Mjk2MjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
       "id": "6362975763347317977",
       "blog": {
         "id": "5901230296868389395"
